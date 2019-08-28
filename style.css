@@ -1,0 +1,66 @@
+body{
+    font-family: 'roboto', sans-serif;
+    background: url('Eddie.jpg')  center;
+  
+}
+
+.main-section{
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 0;
+}
+
+.modal-content{
+    background-color: #434e5a;
+    opacity: 0.8;
+    padding: 0 18px;
+    border-radius: 10px;
+}
+
+.user-img img{
+    height: 120px;
+    width: 120px;
+}
+
+.user-img{
+    margin-top: -60px;
+    margin-bottom: 45px;
+}
+
+.form-group{
+    margin-bottom: 25px;
+}
+
+.form-group input{
+    height: 42px;
+    border-radius: 5px;
+    border: 0;
+    font-size: 18px;
+    letter-spacing: 2px;
+    padding-left: 14px;
+}
+
+
+
+
+.form-input button{
+    background-color: #1c62bb;
+    width: 40%;
+    margin: 5px 0 25px;
+    padding: 7px 14px;
+    border: 1px solid #daf1ff;
+}
+
+.btn-success:hover{
+    background-color: #13445e;
+    border: 1px solid #daf1ff;
+}
+
+.forgot{
+    padding: 5px 0 25px;
+}
+
+.forgot a{
+    color: #daf1ff;
+}
+
